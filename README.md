@@ -3,4 +3,8 @@
 
 ![TWISTR](./other/device.jpg)
 
+Example user interface with data output after test of 8-32 SHCS:
+
+![UI](./other/output.png)
+
 # Instructions for Set-up and Use
