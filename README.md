@@ -1,5 +1,5 @@
 # TWISTR
-Torque With Integrated Simultaneous Tension Reading - This device performs torque-tension testing to determine fastener torque and preload.
+***T***orque ***W***ith ***I***ntegrated ***S***imultaneous ***T***ension ***R***eading - This device performs torque-tension testing to determine fastener torque and preload.
 
 ![TWISTR](./other/device.jpg)
 
